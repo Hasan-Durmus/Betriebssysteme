@@ -1,0 +1,9 @@
+/home/stud/BS_Praktikum_1/build/Desktop-Debug/CMakeFiles/BS_Praktikum_1.dir
+/home/stud/BS_Praktikum_1/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/stud/BS_Praktikum_1/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/stud/BS_Praktikum_1/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/stud/BS_Praktikum_1/build/Desktop-Debug/CMakeFiles/install.dir
+/home/stud/BS_Praktikum_1/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/stud/BS_Praktikum_1/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/stud/BS_Praktikum_1/build/Desktop-Debug/CMakeFiles/BS_Praktikum_1_autogen_timestamp_deps.dir
+/home/stud/BS_Praktikum_1/build/Desktop-Debug/CMakeFiles/BS_Praktikum_1_autogen.dir

@@ -1,0 +1,274 @@
+{
+	"globsDependent" : 
+	[
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.c",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.c++",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.cc",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.ch",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.cpp",
+			"paths" : 
+			[
+				"/home/stud/BS_Praktikum_2/build/Desktop-Debug/BS_Praktikum_2_autogen/mocs_compilation.cpp",
+				"/home/stud/BS_Praktikum_2/build/Desktop-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"/home/stud/BS_Praktikum_2/main.cpp"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.cxx",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.h",
+			"paths" : 
+			[
+				"/home/stud/BS_Praktikum_2/build/Desktop-Debug/BS_Praktikum_2_autogen/moc_predefs.h"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.h++",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.hh",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.hpp",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.hxx",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.java",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.js",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.jui",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.qml",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.qrc",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.qs",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "/home/stud/BS_Praktikum_2/*.ui",
+			"paths" : [],
+			"recurse" : true
+		}
+	],
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop-Debug/.qtc/package-manager/auto-setup.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5/Qt5ModuleLocation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5Core/Qt5CoreMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/GNUInstallDirs.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/stud/BS_Praktikum_2/build/Desktop-Debug",
+		"source" : "/home/stud/BS_Praktikum_2"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

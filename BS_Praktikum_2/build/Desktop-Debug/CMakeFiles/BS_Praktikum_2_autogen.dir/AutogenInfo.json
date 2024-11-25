@@ -1,0 +1,107 @@
+{
+	"BUILD_DIR" : "/home/stud/BS_Praktikum_2/build/Desktop-Debug/BS_Praktikum_2_autogen",
+	"CMAKE_BINARY_DIR" : "/home/stud/BS_Praktikum_2/build/Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/stud/BS_Praktikum_2/build/Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/stud/BS_Praktikum_2",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/stud/BS_Praktikum_2/CMakeLists.txt",
+		"/home/stud/BS_Praktikum_2/build/Desktop-Debug/.qtc/package-manager/auto-setup.cmake",
+		"/home/stud/BS_Praktikum_2/build/Desktop-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake",
+		"/usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/usr/share/cmake/Modules/Platform/Linux-Initialize.cmake",
+		"/home/stud/BS_Praktikum_2/build/Desktop-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake",
+		"/usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake",
+		"/usr/share/cmake/Modules/CMakeGenericSystem.cmake",
+		"/usr/share/cmake/Modules/CMakeInitializeConfigs.cmake",
+		"/usr/share/cmake/Modules/Platform/Linux.cmake",
+		"/usr/share/cmake/Modules/Platform/UnixPaths.cmake",
+		"/usr/share/cmake/Modules/CMakeCXXInformation.cmake",
+		"/usr/share/cmake/Modules/CMakeLanguageInformation.cmake",
+		"/usr/share/cmake/Modules/Compiler/GNU-CXX.cmake",
+		"/usr/share/cmake/Modules/Compiler/GNU.cmake",
+		"/usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake",
+		"/usr/share/cmake/Modules/Platform/Linux-GNU.cmake",
+		"/usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake",
+		"/usr/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/usr/lib/cmake/Qt5/Qt5Config.cmake",
+		"/usr/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/usr/lib/cmake/Qt5/Qt5Config.cmake",
+		"/usr/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/usr/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/usr/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/usr/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/usr/share/cmake/Modules/CMakeParseArguments.cmake",
+		"/usr/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake",
+		"/usr/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake",
+		"/usr/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake",
+		"/usr/share/cmake/Modules/CMakeParseArguments.cmake",
+		"/usr/share/cmake/Modules/GNUInstallDirs.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/stud/BS_Praktikum_2",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/stud/BS_Praktikum_2/build/Desktop-Debug/BS_Praktikum_2_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "BS_Praktikum_2_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/stud/BS_Praktikum_2/build/Desktop-Debug/BS_Praktikum_2_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/stud/BS_Praktikum_2/build/Desktop-Debug/BS_Praktikum_2_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/usr/include/qt",
+		"/usr/include/qt/QtCore",
+		"/usr/lib/qt/mkspecs/linux-g++",
+		"/usr/include/c++/14.2.1",
+		"/usr/include/c++/14.2.1/x86_64-pc-linux-gnu",
+		"/usr/include/c++/14.2.1/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include-fixed",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/g++",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/stud/BS_Praktikum_2/build/Desktop-Debug/BS_Praktikum_2_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/stud/BS_Praktikum_2/build/Desktop-Debug/CMakeFiles/BS_Praktikum_2_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/stud/BS_Praktikum_2/build/Desktop-Debug/CMakeFiles/BS_Praktikum_2_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/stud/BS_Praktikum_2/main.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

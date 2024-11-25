@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/BS_Praktikum_2.dir/BS_Praktikum_2_autogen/mocs_compilation.cpp.o CMakeFiles/BS_Praktikum_2.dir/main.cpp.o -o BS_Praktikum_2  /usr/lib/libQt5Core.so.5.15.15
