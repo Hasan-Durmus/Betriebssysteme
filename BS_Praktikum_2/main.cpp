@@ -6,9 +6,9 @@
 #include <errno.h>
 
 #define MAX_INPUT 1024  // Maximale Länge der Eingabezeile
-#define MAX_ARGS 100    // Maximale Anzahl der Argumente in einem Befehl
-#define MAX_BACKGROUND_PROCESS 50 // Maximale Anzahl an Hintergrundprozesse;
-#define MAX_BACKGROUND_PID 50
+#define MAX_ARGS 100  // Maximale Anzahl der Argumente in einem Befehl
+#define MAX_BACKGROUND_PROCESS 50 // Maximale Anzahl an Hintergrundprozesse
+#define MAX_BACKGROUND_PID 50  // Maximale Anzahl an PIDs
 
 pid_t pid_list[MAX_BACKGROUND_PID];
 int pid_count = 0;
@@ -82,10 +82,7 @@ void extract_arguments(char *user_input, char *args[], bool *background){
     if(strcmp(args[i-1], "&") == 0 && i > 0){
         *background = 1;
         args[i-1] = NULL;
-
     }
-
-
 }
 
 int main(){
@@ -109,8 +106,6 @@ int main(){
             else{
                 continue;
             }
-
-
         }
         extract_arguments(user_input, args, &background_flag);
 
@@ -156,10 +151,5 @@ int main(){
             }
                 printf("pidcount = %d \n", pid_count);
         }
-
-
-
-
     }
-
 }
